@@ -1,0 +1,23 @@
+# File biên dịch và thực thi
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.exe
+*.out
+*.map
+
+# Thư mục build
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+bin/
+out/
+
+# Cấu hình IDE / Editor
+.vscode/
+
+# File rác hệ thống
+.DS_Store
+Thumbs.db
