@@ -1,0 +1,1 @@
+Trong chương 1 này, chúng ta sẽ làm những bài tập liên quan đến các phép toán trên bit. Đây là những kiến thức đầu tiên để làm quen với thế giới thanh ghi của phần cứng.
