@@ -1,0 +1,3 @@
+Chương 2 Bit Field Operations tập trung rèn luyện các kỹ năng thao tác nhị phân trực tiếp trên thanh ghi phần cứng (8-bit, 16-bit và 32-bit) trong lập trình C nhúng. 
+
+Xuyên suốt danh sách bài tập, chúng ta sẽ thực hành 4 thao tác cốt lõi: trích xuất dữ liệu (đọc nibble, lọc bit chẵn hoặc lấy trường bit ngẫu nhiên bằng mặt nạ và dịch bit), ghi/xóa bit (dùng phép OR để bật bit và AND bù 1 để xóa bit chỉ định), thay thế/cập nhật trường bit (quy trình xóa vùng cũ rồi ghi đè giá trị mới), cùng kỹ năng đóng gói dữ liệu (ghép nhiều trường vào một thanh ghi điều khiển như cấu hình Baud Rate hay truyền dữ liệu ngoại vi).
