@@ -3,6 +3,7 @@ Trong các hệ thống nhúng (embedded systems), nhiều trường cấu hình
 Bạn được cung cấp bảng mô tả các trường cần đóng gói vào một thanh ghi điều khiển 16-bit như sau:
 
 Trường (Field)    Số bit (Bits)   Vị trí theo thứ tự bit trọng số thấp trước (Position - LSB-first)
+
 Mode              3                Bit 0 – 2
 
 Speed             5                Bit 3 – 7
