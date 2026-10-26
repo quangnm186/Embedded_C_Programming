@@ -1,10 +1,14 @@
 Trong các hệ thống nhúng (embedded systems), nhiều trường cấu hình (configuration fields) thường được đóng gói vào một thanh ghi duy nhất bằng các thao tác cấp độ bit (bit-level operations).
 
 Bạn được cung cấp bảng mô tả các trường cần đóng gói vào một thanh ghi điều khiển 16-bit như sau:
+
 Trường (Field)    Số bit (Bits)   Vị trí theo thứ tự bit trọng số thấp trước (Position - LSB-first)
 Mode              3                Bit 0 – 2
+
 Speed             5                Bit 3 – 7
+
 Reserved          2                Bit 8 – 9 (bắt buộc phải bằng 0)
+
 Status            6                Bit 10 – 15
 
 Nhiệm vụ của bạn là:
